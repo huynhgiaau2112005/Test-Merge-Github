@@ -1,9 +1,10 @@
 # edit
 
 def edit():
-    a = 1
-    b = 2
+    a = 3
+    b = 4
 
-    print("old")
+    print("new")
 
-    print("change this to random command")
+    c = a + b
+    print(c)
